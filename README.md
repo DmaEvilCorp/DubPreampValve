@@ -1,6 +1,8 @@
 # DubPreampValve
 Project of dub preamp fully equipped with audio tubes.
 
+Audio tubes require very high voltages, the slightest mistake or inattention can kill you!
+
 Will be realized in monophonic, otherwise I might have to use a 12U rack :) and use a pallet truck to move it.
 1 microphone input.
 1 instrument input.
@@ -22,4 +24,5 @@ To do:
 - VU meters schematic.
 
 
+Draft for a 2 way 24db crossover, need too add one more stage for the passband.
  ![alt text](https://raw.githubusercontent.com/DmaEvilCorp/DubPreampValve/main/2Way_Crossover.png) 
